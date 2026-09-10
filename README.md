@@ -16,5 +16,4 @@
   위의 `releases/latest/download` 고정 주소가 깨집니다.
 - 버전은 태그(`v1.5.9`)에만 적습니다. 업데이터가 태그에서 버전을 읽어,
   지금 쓰는 것보다 예전 빌드면 받지 않습니다.
-- 커밋 메일은 `elancibal@users.noreply.github.com` 만 씁니다. 실제 메일 주소를
-  커밋에 남기면 공개 저장소라 누구나 봅니다.
+- 커밋 메일은 `elancibal@users.noreply.github.com` 만 씁니다.
